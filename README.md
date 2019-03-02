@@ -1,4 +1,4 @@
-#StereoCameraPointTracker
+# Stereo Camera Point Tracker
 
 OpenFrameworks application to track the position of a single disturbance entering into a region of space. 
 This application takes video data streams from two camera and identifies the single most prominent change from a baseline measurement. 
